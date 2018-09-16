@@ -1,0 +1,28 @@
+_repo: Browere-s-Life-Masks-of-Great-Americans_51890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hart, Charles Henry
+    birthdate: 1847
+    deathdate: 1918
+    gutenberg_agent_id: '46595'
+    url: http://www.gutenberg.org/2009/agents/46595
+description: ''
+gutenberg_issued: '2016-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51890'
+  lccn: '99001300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Masks (Sculpture)'
+- !lcsh 'United States -- Biography -- Portraits'
+- !lcc 'NB'
+- !lcsh 'Browere, John Henri Isaac, 1792-1834'
+- !lcsh 'Sculpture, American'
+- GITenberg
+title: Browere's Life Masks of Great Americans
+url: http://www.gutenberg.org/ebooks/51890
